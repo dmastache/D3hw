@@ -13,5 +13,5 @@ PyMySQL==0.9.3
 requests==2.18.4
 selenium==3.141.0
 splinter==0.10.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
